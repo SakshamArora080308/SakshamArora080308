@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, I'm Saksham Arora and I am an aspiring aerospace engineer. Below are some of my projects: 
+
+## Aerospace-specific Projects: 
+
+## Other Projects: 
+
 
 <!--
 **SakshamArora080308/SakshamArora080308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
