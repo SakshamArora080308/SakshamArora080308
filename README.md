@@ -1,6 +1,7 @@
 ## Hi there, I'm Saksham Arora and I am an aspiring aerospace engineer. Below are some of my projects: 
 
 ## Aerospace-specific Projects: 
+[One Axis Gyroscopic Stabiliser](https://github.com/SakshamArora080308/OneAxisGyroStabiliser.git)
 
 ## Other Projects: 
 
